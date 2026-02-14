@@ -1,4 +1,4 @@
-# Qtile minimal config – Franz
+# Qtile minimal config
 
 from lab.settings import *
 from lab.keys import keys
